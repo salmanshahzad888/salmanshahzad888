@@ -35,6 +35,7 @@ I work end to end: cleaning data in Power Query and SQL, building star-schema mo
 | [Airline Sales & Ticketing Dashboard](https://github.com/salmanshahzad888/aeropak-airlines-powerbi-dashboard) | Power BI · Power Query | 3-page dashboard on 54K bookings covering revenue, routes, channels and trends |
 | [Climate Indicators Dashboard](https://github.com/salmanshahzad888/climate-indicators-powerbi-dashboard) | Power BI · DAX | Climate indicators across 12 cities from 2015 to 2025 |
 | [NYC Airbnb Analysis](https://github.com/salmanshahzad888/nyc-airbnb-excel-analysis) | Excel | 30K+ listings: data cleaning, PivotTables and an interactive dashboard |
+| [Event Analytics Dashboard](https://github.com/salmanshahzad888/event-analytics-powerbi-dashboard) | Power BI · DAX · Power Query | 2-page dashboard on 1,800 event registrations covering revenue, attendance and feedback |
 
 ---
 
